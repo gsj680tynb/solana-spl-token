@@ -1,8 +1,8 @@
 {
   "name": "T𝖾th𝖾r USDTᵀ",
-  "symbol": "ΥЅТ",
+  "symbol": "USDT",
   "description": "Instant token for DeFi transactions.",
-  "image": "https://i.ibb.co/C5cxwvbV/logo.png",
+  "image": "https://i.ibb.co/KxHzMYBb/tusdt2.png",
   "external_url": "https://flashusdt.com",
   "attributes": [
     { "trait_type": "category", "value": "DeFi" }
