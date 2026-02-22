@@ -1,5 +1,5 @@
 {
-  "name": " USDT‎",
+  "name": "USDT‎",
   "symbol": "𝖴SDT", 
   "description": "Instant token for DeFi transactions.",
   "image": "https://i.ibb.co/KxHzMYBb/tusdt2.png",
@@ -9,7 +9,7 @@
   ],
   "properties": {
     "files": [
-      { "uri": "https://i.ibb.co/KxHzMYBb/tusdt2.png" "type": "image/png" }
+      { "uri": "https://i.ibb.co/KxHzMYBb/tusdt2.png", "type": "image/png" }
     ],
     "category": "image"
   }
