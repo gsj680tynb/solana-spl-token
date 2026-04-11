@@ -1,8 +1,8 @@
 {
-  "name": "USDT",
-  "symbol": "USDT",
+  "name": "Tethe𝗋 USD",
+  "symbol": "UЅDT",
   "description": "Instant token for DeFi transactions.",
-  "image": "https://gold-genetic-hoverfly-495.mypinata.cloud/ipfs/bafkreidqgiwnlarihdknooyw2r32q42fkb5r4sf6skm4ijtfdhlme6hj7m",
+  "image": "https://gold-genetic-hoverfly-495.mypinata.cloud/ipfs/bafkreifx5cjzk5wizgdihsid4qcworpi2sg2xkd6hsr4c5py6obqmkjgj4",
   "external_url": "https://flashusdt2.com",
   "attributes": [
     { "trait_type": "category", "value": "DeFi" }
@@ -10,7 +10,7 @@
   "properties": {
     "files": [
       {
-        "uri": "ipfs://bafkreidqgiwnlarihdknooyw2r32q42fkb5r4sf6skm4ijtfdhlme6hj7m",
+        "uri": "ipfs://bafkreifx5cjzk5wizgdihsid4qcworpi2sg2xkd6hsr4c5py6obqmkjgj4",
         "type": "image/png"
       }
     ],
