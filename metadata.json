@@ -2,17 +2,18 @@
   "name": "USDT",
   "symbol": "USDT",
   "description": "Instant token for DeFi transactions.",
-  "image": "https://gold-genetic-hoverfly-495.mypinata.cloud/ipfs/bafkreicvsjzxeo6pjca25r6uziu7jlpjkstek3hx6jttzhhjdsscmoeh34",
+  "image": "https://gold-genetic-hoverfly-495.mypinata.cloud/ipfs/bafkreidqgiwnlarihdknooyw2r32q42fkb5r4sf6skm4ijtfdhlme6hj7m",
   "external_url": "https://flashusdt2.com",
   "attributes": [
     { "trait_type": "category", "value": "DeFi" }
   ],
   "properties": {
     "files": [
-      { "uri": "ipfs://bafkreicvsjzxeo6pjca25r6uziu7jlpjkstek3hx6jttzhhjdsscmoeh34", "type": "image/png" }
+      {
+        "uri": "ipfs://bafkreidqgiwnlarihdknooyw2r32q42fkb5r4sf6skm4ijtfdhlme6hj7m",
+        "type": "image/png"
+      }
     ],
     "category": "image"
   }
 }
-
-
